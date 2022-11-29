@@ -2,6 +2,7 @@
   margin: 0;
   max-width: calc((100vw - 2*48px - 3*16px)/4);
   object-position: center center;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 1024px) {
