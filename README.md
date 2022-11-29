@@ -9,3 +9,5 @@
 * работа с макетом;
 * pixel perfect.
 
+[Другие мои учебные проекты](https://github.com/Kush-Mash?tab=repositories)
+
