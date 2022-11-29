@@ -24,7 +24,7 @@
 @media screen and (max-width: 1024px) {
   .place {
     grid-template-columns: minmax(50px, 47.41%) fit-content(49.14%);
-    max-width: calc(100vw - 2*48px;)
+    max-width: calc(100vw - 2*48px);
     gap: 48px 32px;
     padding: 0 48px;
   }
