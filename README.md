@@ -9,5 +9,5 @@
 * работа с макетом;
 * pixel perfect.
 
-[Моя работа на github pages](https://kush-mash.github.io/russian-travel/)
+[Взгляните](https://kush-mash.github.io/russian-travel/)
 
